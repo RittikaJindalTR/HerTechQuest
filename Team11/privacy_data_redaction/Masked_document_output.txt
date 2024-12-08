@@ -1,0 +1,76 @@
+Filename: input_documents/dishonor_of_a_check.docx
+Content:
+------------------------------------------------------------------
+ANJANA LAW OFFICES
+(Corporate Advocates & Consultants)
+Off: F-218, Second Floor, Vashi International Infotech Park, Vashi, Navi Mumbai-400703, Mob: 7666607016, 9833686456, Email:anjanalawoffices@gmail.com
+
+BY RPAD/ REGISTERED POST
+Date:26/11/2019
+To,
+Ganesh Bibve.303, 
+Moraj Residency,
+Sanpada, Navi Mumbai.
+Mobile No. 8229969553
+Occupation: Network Marketing.
+
+Subject: Statutory Legal Notice under Section 138 of the Negotiable
+Instruments Act for dishonor of Cheque
+
+
+Dear Sir,Under instructions and authority received from my client Mr. Pankaj MaheshBisawa
+(hereinafter called as my “client”) Aged ___ years,Occupation:Salaried,residing at 08, RamaniNiwas, ITI Colony Road, Wadawali Section,Ambarnath (E), Thane. I do hereby serve upon you the following notice ofdemand under Section 138 of the Negotiable Instruments Act, 1881.
+ 
+Our client is a peace loving citizen, respectable person in the near vicinity. That my client knows you, the noticeeMr.Ganesh Bibve, from the last years and on that account you had gained the faith and confidence of myclient. That you demanded a friendly loan from my client to the tune ofRs.79, 000 in the month of August 2017. My client obliged you by providingthe said amount soour client transferred the amount in your currentaccount in the name of GKB Infrastructure. Account No. 50019916544, Allahabad Bank, Vashi Branch.Our client states that you have transferredsome of the amount but now you are not transferring the further payment. 2.
+ Our client state that as all this arrangement was done in absolute trust andin spite of repeatedly asking you to sign formal agreements with respect toany of the above arrangements you with full malafide intentions and motiveand criminal mindset of cheating our client failed to sign any formalagreement and even failed to keep your false assurances, and commitmentsgiven to our client.
+The earlier you issued a cheque dated 15/08/2019 for Rs. 79,000/- drawnon Mr. PankajBisawa, in order to discharge your partial liability. At the timeof issuing the cheque, you assured my client that the same is good for valueand will be honored as and when presented.
+That despite of the telephonic reminders, you considerably have failed tomake the payment due to my client and did not accede to the genuinerequest of my client.Furthermore, you started to put the matter off and on,on the one pretext or the other. Now, since 10 days has passed and myclient is left with no other option but to get you served with the present legalnotice
+That you have considerably failed to comply with the provisions of the lawand had also failed to discharge your liability from your account. Thus, youhave issued a cheque which is bad for value and thereafter had got thesame dishonored intentionally and willfully.
+That on account of the above facts, you is liable to be prosecuted underSection 138 of the Negotiable Instruments Act, 1881 as amended up tounder which you are liable to be punished with imprisonment which mayextend to two years or with fine which may extend to twice the amount ofcheque or both.
+Kindly take notice.
+Note: Copy retained in my office for further use.
+
+(The contents of this Legal Notice areRead by me which are correct and true) 
+
+Thanking You.
+Advocate Anjana Sharma.
+(For Anjana Law Offices.)
+------------------------------------------------------------------
+Entities Identified through Comprehend model :
+{'Entities': [{'Score': 0.89605712890625, 'Type': 'ADDRESS', 'BeginOffset': 60, 'EndOffset': 79}, {'Score': 0.981467604637146, 'Type': 'ADDRESS', 'BeginOffset': 81, 'EndOffset': 141}, {'Score': 0.9992995262145996, 'Type': 'PHONE', 'BeginOffset': 148, 'EndOffset': 158}, {'Score': 0.9993033409118652, 'Type': 'PHONE', 'BeginOffset': 160, 'EndOffset': 170}, {'Score': 0.999847412109375, 'Type': 'EMAIL', 'BeginOffset': 178, 'EndOffset': 204}, {'Score': 0.9998030662536621, 'Type': 'DATE_TIME', 'BeginOffset': 236, 'EndOffset': 246}, {'Score': 0.9287137389183044, 'Type': 'ADDRESS', 'BeginOffset': 287, 'EndOffset': 307}, {'Score': 0.9996899366378784, 'Type': 'PHONE', 'BeginOffset': 320, 'EndOffset': 330}, {'Score': 0.9999574422836304, 'Type': 'NAME', 'BeginOffset': 542, 'EndOffset': 561}, {'Score': 0.9991536736488342, 'Type': 'ADDRESS', 'BeginOffset': 645, 'EndOffset': 716}, {'Score': 0.999943196773529, 'Type': 'DATE_TIME', 'BeginOffset': 1152, 'EndOffset': 1163}, {'Score': 0.7789196372032166, 'Type': 'NAME', 'BeginOffset': 1215, 'EndOffset': 1220}, {'Score': 0.9985553622245789, 'Type': 'BANK_ACCOUNT_NUMBER', 'BeginOffset': 1321, 'EndOffset': 1332}, {'Score': 0.9441785216331482, 'Type': 'ADDRESS', 'BeginOffset': 1350, 'EndOffset': 1355}, {'Score': 0.9999188780784607, 'Type': 'DATE_TIME', 'BeginOffset': 1908, 'EndOffset': 1918}, {'Score': 0.9999542236328125, 'Type': 'NAME', 'BeginOffset': 1948, 'EndOffset': 1960}, {'Score': 0.9999942183494568, 'Type': 'NAME', 'BeginOffset': 3244, 'EndOffset': 3257}], 'ResponseMetadata': {'RequestId': 'db6e88c7-de7c-4b28-afef-84ca86776e68', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': 'db6e88c7-de7c-4b28-afef-84ca86776e68', 'content-type': 'application/x-amz-json-1.1', 'content-length': '1378', 'date': 'Sun, 08 Dec 2024 05:49:37 GMT'}, 'RetryAttempts': 0}}
+------------------------------------------------------------------
+Redacted_Content :
+ANJANA LAW OFFICES
+(Corporate Advocates & Consultants)
+Off: F-218, Second Floor, Vashi International Infotech Park, Vashi, Navi Mumbai-400703, Mob: XXXXXXXXXX, XXXXXXXXXX, Email:anjanalawoffices@gmail.com
+
+BY RPAD/ REGISTERED POST
+Date:XX/XX/XXXX
+To,
+Ganesh Bibve.303, 
+Moraj Residency,
+Sanpada, Navi Mumbai.
+Mobile No. XXXXXXXXXX
+Occupation: Network Marketing.
+
+Subject: Statutory Legal Notice under Section 138 of the Negotiable
+Instruments Act for dishonor of Cheque
+
+
+Dear Sir,Under instructions and authority received from my client Mr. Pankaj MaheshBisawa
+(hereinafter called as my “client”) Aged ___ years,Occupation:Salaried,residing at 08, RamaniNiwas, ITI Colony Road, Wadawali Section,Ambarnath (E), Thane. I do hereby serve upon you the following notice ofdemand under Section 138 of the Negotiable Instruments Act, 1881.
+ 
+Our client is a peace loving citizen, respectable person in the near vicinity. That my client knows you, the noticeeMr.Ganesh Bibve, from the last years and on that account you had gained the faith and confidence of myclient. That you demanded a friendly loan from my client to the tune ofRs.79, 000 in the month of August XXXX. My client obliged you by providingthe said amount soour client transferred the amount in your currentaccount in the name of GKB Infrastructure. Account No. XXXXXXXXXXX, Allahabad Bank, Vashi Branch.Our client states that you have transferredsome of the amount but now you are not transferring the further payment. 2.
+ Our client state that as all this arrangement was done in absolute trust andin spite of repeatedly asking you to sign formal agreements with respect toany of the above arrangements you with full malafide intentions and motiveand criminal mindset of cheating our client failed to sign any formalagreement and even failed to keep your false assurances, and commitmentsgiven to our client.
+The earlier you issued a cheque dated XX/XX/XXXX for Rs. 79,000/- drawnon Mr. PankajBisawa, in order to discharge your partial liability. At the timeof issuing the cheque, you assured my client that the same is good for valueand will be honored as and when presented.
+That despite of the telephonic reminders, you considerably have failed tomake the payment due to my client and did not accede to the genuinerequest of my client.Furthermore, you started to put the matter off and on,on the one pretext or the other. Now, since 10 days has passed and myclient is left with no other option but to get you served with the present legalnotice
+That you have considerably failed to comply with the provisions of the lawand had also failed to discharge your liability from your account. Thus, youhave issued a cheque which is bad for value and thereafter had got thesame dishonored intentionally and willfully.
+That on account of the above facts, you is liable to be prosecuted underSection 138 of the Negotiable Instruments Act, 1881 as amended up tounder which you are liable to be punished with imprisonment which mayextend to two years or with fine which may extend to twice the amount ofcheque or both.
+Kindly take notice.
+Note: Copy retained in my office for further use.
+
+(The contents of this Legal Notice areRead by me which are correct and true) 
+
+Thanking You.
+Advocate Anjana Sharma.
+(For Anjana Law Offices.)
